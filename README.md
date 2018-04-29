@@ -20,7 +20,7 @@ js采用webpack压缩 css采用glup压缩使用前请先浏览目录  
 主题基于[Amativeness3](http://azfashao.com/amativeness3-0/)  
 一个锲机 与Amativeness3相遇  
 Amativeness3开发已经结束二次开发还在继续  
-因此 主题重命名为Gensokyo并且二次开发发布！  
+因此 主题重命名为Gensokyo并且二次开发布！  
 ## Worning
 此主题支持二次开发和学习研究
 转载请标明出处且禁止非法及商业用途
