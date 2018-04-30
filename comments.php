@@ -21,17 +21,17 @@ if (post_password_required())
     );
     comment_form($args);
     ?>
-	<link rel="stylesheet" href="https://www.ohyhello.com/wp-content/themes/amativeness-master/lib/owo/dist/OwO.min.css">
+	<link rel="stylesheet" href="https://www.ohyhello.com/wp-content/themes/Gensokyo/lib/owo/dist/OwO.min.css">
 			<!-- owo表情 -->
 			<div class="OwO"></div>
 			<!--owo表情-->
-		<script src="https://www.ohyhello.com/wp-content/themes/amativeness-master/lib/owo/dist/OwO.min.js"></script>
+		<script src="https://www.ohyhello.com/wp-content/themes/Gensokyo/lib/owo/dist/OwO.min.js"></script>
 		<script>
         var OwO_demo = new OwO({
             logo: 'OωO表情',
             container: document.getElementsByClassName('OwO')[0],
             target: document.getElementsByClassName('text-block')[0],
-            api: 'https://www.ohyhello.com/wp-content/themes/amativeness-master/lib/owo/OwO.json',
+            api: 'https://www.ohyhello.com/wp-content/themes/Gensokyo/lib/owo/OwO.json',
             position: 'down',
             width: '100%',
             maxHeight: '250px'
