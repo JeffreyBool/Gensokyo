@@ -1,26 +1,25 @@
 {
-  "name": "Amativeness",
-  "version": "3.1.0",
-  "description": "Wordpress theme Amativeness",
+  "name": "Gensokyo",
+  "version": "1.0.0",
+  "description": "Wordpress theme Gensokyo",
   "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DIYgod/Amativeness.git"
+    "url": "git+https://github.com/ohyhello/Gensokyo"
   },
   "keywords": [
     "Wordpress",
     "theme",
-    "Amativeness"
+    "Gensokyo"
   ],
-  "author": "DIYgod",
-  "license": "MIT",
+  "author": "Jiumeng",
   "bugs": {
-    "url": "https://github.com/DIYgod/Amativeness/issues"
+    "url": "https://github.com/ohyhello/Gensokyo"
   },
-  "homepage": "https://github.com/DIYgod/Amativeness#readme",
+  "homepage": "https://github.com/ohyhello/Gensokyo",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "babel-loader": "^6.2.4",
