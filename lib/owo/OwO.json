@@ -1,0 +1,421 @@
+{
+    "颜文字": {
+        "type": "emoticon",
+        "container": [
+                {
+                    "icon": "OωO",
+                    "text": "Author: DIYgod"
+                },
+                {
+                    "icon": "|´・ω・)ノ",
+                    "text": "Hi"
+                },
+                {
+                    "icon": "ヾ(≧∇≦*)ゝ",
+                    "text": "开心"
+                },
+                {
+                    "icon": "(☆ω☆)",
+                    "text": "星星眼"
+                },
+                {
+                    "icon": "（╯‵□′）╯︵┴─┴",
+                    "text": "掀桌"
+                },
+                {
+                    "icon": "￣﹃￣",
+                    "text": "流口水"
+                },
+                {
+                    "icon": "(/ω＼)",
+                    "text": "捂脸"
+                },
+                {
+                    "icon": "∠( ᐛ 」∠)＿",
+                    "text": "给跪"
+                },
+                {
+                    "icon": "(๑•̀ㅁ•́ฅ)",
+                    "text": "Hi"
+                },
+                {
+                    "icon": "→_→",
+                    "text": "斜眼"
+                },
+                {
+                    "icon": "୧(๑•̀⌄•́๑)૭",
+                    "text": "加油"
+                },
+                {
+                    "icon": "٩(ˊᗜˋ*)و",
+                    "text": "有木有WiFi"
+                },
+                {
+                    "icon": "(ノ°ο°)ノ",
+                    "text": "前方高能预警"
+                },
+                {
+                    "icon": "(´இ皿இ｀)",
+                    "text": "我从未见过如此厚颜无耻之人"
+                },
+                {
+                    "icon": "⌇●﹏●⌇",
+                    "text": "吓死宝宝惹"
+                },
+                {
+                    "icon": "(ฅ´ω`ฅ)",
+                    "text": "已阅留爪"
+                },
+                {
+                    "icon": "(╯°A°)╯︵○○○",
+                    "text": "去吧大师球"
+                },
+                {
+                    "icon": "φ(￣∇￣o)",
+                    "text": "太萌惹"
+                },
+                {
+                    "icon": "ヾ(´･ ･｀｡)ノ\"",
+                    "text": "咦咦咦"
+                },
+                {
+                    "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃",
+                    "text": "气呼呼"
+                },
+                {
+                    "icon": "(ó﹏ò｡)",
+                    "text": "我受到了惊吓"
+                },
+                {
+                    "icon": "Σ(っ °Д °;)っ",
+                    "text": "什么鬼"
+                },
+                {
+                    "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)",
+                    "text": "摸摸头"
+                },
+                {
+                    "icon": "╮(╯▽╰)╭ ",
+                    "text": "无奈"
+                },
+                {
+                    "icon": "o(*////▽////*)q ",
+                    "text": "脸红"
+                },
+                {
+                    "icon": "＞﹏＜",
+                    "text": ""
+                },
+                {
+                    "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)",
+                    "text": ""
+                }
+        ]
+    },
+    "Emoji": {
+        "type": "emoji",
+        "container": [
+            {
+                "icon": "😂",
+                "text": ""
+            },
+            {
+                "icon": "😀",
+                "text": ""
+            },
+            {
+                "icon": "😅",
+                "text": ""
+            },
+            {
+                "icon": "😊",
+                "text": ""
+            },
+            {
+                "icon": "🙂",
+                "text": ""
+            },
+            {
+                "icon": "🙃",
+                "text": ""
+            },
+            {
+                "icon": "😌",
+                "text": ""
+            },
+            {
+                "icon": "😍",
+                "text": ""
+            },
+            {
+                "icon": "😘 ",
+                "text": ""
+            },
+            {
+                "icon": "😜",
+                "text": ""
+            },
+            {
+                "icon": "😝",
+                "text": ""
+            },
+            {
+                "icon": "😏",
+                "text": ""
+            },
+            {
+                "icon": "😒",
+                "text": ""
+            },
+            {
+                "icon": "🙄",
+                "text": ""
+            },
+            {
+                "icon": "😳 ",
+                "text": ""
+            },
+            {
+                "icon": "😡",
+                "text": ""
+            },
+            {
+                "icon": "😔",
+                "text": ""
+            },
+            {
+                "icon": "😫",
+                "text": ""
+            },
+            {
+                "icon": "😱",
+                "text": ""
+            },
+            {
+                "icon": "😭",
+                "text": ""
+            },
+            {
+                "icon": "💩",
+                "text": ""
+            },
+            {
+                "icon": "👻",
+                "text": ""
+            },
+            {
+                "icon": "🙌",
+                "text": ""
+            },
+            {
+                "icon": "🖕",
+                "text": ""
+            },
+            {
+                "icon": "👍",
+                "text": ""
+            },
+            {
+                "icon": "👫",
+                "text": ""
+            },
+            {
+                "icon": "👬",
+                "text": ""
+            },
+            {
+                "icon": "👭",
+                "text": ""
+            },
+            {
+                "icon": "🌚",
+                "text": ""
+            },
+            {
+                "icon": "🌝",
+                "text": ""
+            },
+            {
+                "icon": "🙈",
+                "text": ""
+            },
+            {
+                "icon": "💊",
+                "text": ""
+            },
+            {
+                "icon": "😶",
+                "text": ""
+            },
+            {
+                "icon": "🙏",
+                "text": ""
+            },
+            {
+                "icon": "🍦",
+                "text": ""
+            },
+            {
+                "icon": "🍉",
+                "text": ""
+            },
+            {
+                "icon": "😣",
+                "text": ""
+            }
+        ]
+    },
+    "滑稽": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/hhh.jpg\">",
+                "text": "hhh"
+            },
+            {
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/tuifei.jpg\">",
+                "text": "颓废"
+            },
+            {
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji.jpg\">",
+                "text": "滑稽"
+            },
+            {
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/haipa.jpg\">",
+                "text": "滑稽"
+            },
+            {
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/weiqu.jpg\">",
+                "text": "委屈"
+            },
+			
+            
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (1).gif\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (1).jpg\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (1).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (2).gif\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (2).jpg\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (2).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (3).gif\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (3).jpg\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (3).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (4).gif\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (4).jpg\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (4).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (5).gif\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (5).jpg\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (5).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (6).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (7).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (8).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (9).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (10).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (11).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (12).png\">",
+                "text": "滑稽"
+            },
+			{
+                "icon": "<img src=\"https://www.ohyhello.com/wp-content/uploads/images/huaji (13).png\">",
+                "text": "滑稽"
+            }
+			
+        ]
+    },
+    "暂时维护": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "",
+                "text": "face1"
+            },
+            {
+                "icon": "",
+                "text": "face2"
+            },
+            {
+                "icon": "",
+                "text": "face3"
+            },
+            {
+                "icon": "",
+                "text": "face4"
+            },
+            {
+                "icon": "",
+                "text": "face5"
+            },
+            {
+                "icon": "",
+                "text": "face6"
+            },
+            {
+                "icon": "",
+                "text": "face6"
+            }
+        ]
+    }
+}

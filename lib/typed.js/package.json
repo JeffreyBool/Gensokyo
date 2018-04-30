@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "typed.js@^1.1.1",
+        "scope": null,
+        "escapedName": "typed.js",
+        "name": "typed.js",
+        "rawSpec": "^1.1.1",
+        "spec": ">=1.1.1 <2.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\11606\\Desktop\\新建文件夹 (5)"
+    ]
+  ],
+  "_from": "typed.js@>=1.1.1 <2.0.0",
+  "_id": "typed.js@1.1.7",
+  "_inCache": true,
+  "_location": "/typed.js",
+  "_nodeVersion": "7.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/typed.js-1.1.7.tgz_1497490440668_0.6214144087862223"
+  },
+  "_npmUser": {
+    "name": "byo9701",
+    "email": "taehyunjo97@gmail.com"
+  },
+  "_npmVersion": "4.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "typed.js@^1.1.1",
+    "scope": null,
+    "escapedName": "typed.js",
+    "name": "typed.js",
+    "rawSpec": "^1.1.1",
+    "spec": ">=1.1.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/typed.js/-/typed.js-1.1.7.tgz",
+  "_shasum": "573d9c11a6e61e806b7bdefe9ea78befe25a9d63",
+  "_shrinkwrap": null,
+  "_spec": "typed.js@^1.1.1",
+  "_where": "C:\\Users\\11606\\Desktop\\新建文件夹 (5)",
+  "authors": [
+    "Matt Boldt <me@mattboldt.com>"
+  ],
+  "dependencies": {},
+  "description": "A jQuery typing animation script",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "573d9c11a6e61e806b7bdefe9ea78befe25a9d63",
+    "tarball": "https://registry.npmjs.org/typed.js/-/typed.js-1.1.7.tgz"
+  },
+  "gitHead": "99f94517492dddd3fa4789cb20570f833ec2cc76",
+  "homepage": "https://github.com/mattboldt/typed.js",
+  "keywords": [
+    "typed",
+    "animation"
+  ],
+  "main": "dist/typed.min.js",
+  "maintainers": [
+    {
+      "name": "byo9701",
+      "email": "taehyunjo97@gmail.com"
+    }
+  ],
+  "name": "typed.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.1.7"
+}
